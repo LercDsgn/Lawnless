@@ -21,7 +21,7 @@
 
 Hi there, I'm **Lawnless (also known as GreeJolly)**, a **Software Engineering Student** 🚀 from Turkey. Currently, I'm working as **Cybersecurity Engineer** 💼. 
 
-  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/f3/53/03/f35303f94ccbdfe0325d7d23982ab74d.gif" />
 
 **Talking about Personal Stuffs:**
 
