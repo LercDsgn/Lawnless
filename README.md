@@ -31,9 +31,6 @@ Hi there, I'm **Lawnless (also known as GreeJolly)**, a **Software Engineering S
 - 💼 I’m trying to participate in competitions and win degrees.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via lawnless@protonmail.com to reach me.
-<!-- - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1q_ATZsO9c488VUxj1JuU--ZYe9IEqp4-/view?usp=sharing) to get more info. -->
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=lawnless&show_icons=true&hide_border=true&theme=nord)
 
 
 **Languages and Tools:**  
@@ -51,4 +48,5 @@ Hi there, I'm **Lawnless (also known as GreeJolly)**, a **Software Engineering S
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=lawnless&show_icons=true&hide_border=true&theme=nord) -->
 ⭐️ From [Lawnless](https://github.com/Lawnless)
