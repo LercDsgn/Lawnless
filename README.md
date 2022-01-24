@@ -23,11 +23,11 @@ Hi there, I'm **Lawnless**, a **Software Engineering Student** 🚀 from Turkey.
 
   <img width="335" align="right" alt="GIF" src="https://i.pinimg.com/originals/f3/53/03/f35303f94ccbdfe0325d7d23982ab74d.gif" />
 
-**Talking about Personal Stuffs:**
+**Talking about personal stuff:**
 
 - 💻 I’m currently a Cybersecurity Engineer, working on my own projects.
 - 🌱 I’m currently learning Artificial Intelligence.
-- 🤔 My interests are with Learning New Languages, Reading Books, etc...
+- 🤔 My interests are: learning new languages, reading books, etc.
 - 💼 I’m trying to participate in competitions and win degrees.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via lawnless@protonmail.com to reach me.
